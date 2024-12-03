@@ -39,7 +39,7 @@ export default defineUserConfig({
         // 仓库所有者的用户名
         user: "leviboss",
         // 仓库所有者的仓库名
-        repository: "KnapsackToGo4"
+        repository: "Flist"
       }),
     },
   ])
